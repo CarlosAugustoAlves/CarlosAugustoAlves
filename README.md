@@ -40,10 +40,10 @@ Welcome to my GitHub! I'm a software engineer with over 14 years of experience d
 ## 🛠️ **Tech Stack**  
 
 ### **Languages & Frameworks**  
-- **Backend**: Node.js, TypeScript, NestJS, .NET Core, C#  
+- **Backend**: Node.js, TypeScript, NestJS, .NET Core, C#
+- **AI**: LLMs, LangChain
 - **Frontend**: React, Next.js
 - **Mobile**: Flutter
-- **AI**: LLMs, LangChain
 
 ---
 
