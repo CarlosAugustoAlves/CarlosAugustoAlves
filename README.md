@@ -26,12 +26,12 @@ Welcome to my GitHub! I'm a software engineer with over 14 years of experience d
 - Empowered teams to deliver impactful projects through platform-focused solutions and technical mentorship.  
 
 ### **Itaú Unibanco**  
-- **Tech Manager (2019 - 2022)**:  
+- **Tech Manager**:  
   - Directed **Developer Experience** and **Application Security** platforms, enhancing developer productivity and system reliability.  
   - Introduced scalable tools and frameworks, enabling faster development cycles and better security practices.  
   - Strengthened backend security by implementing advanced **AuthZ/AuthN** mechanisms.  
 
-- **Tech Lead (2017 - 2019)**:  
+- **Tech Lead**:  
   - Designed and implemented developer-focused frameworks and tools, significantly boosting efficiency for web and desktop applications.  
   - Mentored teams, fostering collaboration, innovation, and technical excellence.
   
