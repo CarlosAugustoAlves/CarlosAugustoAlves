@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a software engineer with over 14 years of experience d
 - Led the redesign of backend systems serving over **100 million users**, improving scalability, performance, and reliability.  
 - Empowered teams to deliver impactful projects through platform-focused solutions and technical mentorship.  
 
-### **🚀 Itaú Unibanco**  
+### **Itaú Unibanco**  
 - **Tech Manager (2019 - 2022)**:  
   - Directed **Developer Experience** and **Application Security** platforms, enhancing developer productivity and system reliability.  
   - Introduced scalable tools and frameworks, enabling faster development cycles and better security practices.  
